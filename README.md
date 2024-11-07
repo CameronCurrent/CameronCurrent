@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CameronCurrent
-- 👀 I’m interested in Game Devlopment and AI software
+- 👀 I’m interested in Game Development and AI software
 - 🌱 I’m currently learning Computer Science and Philosophy
 - 💞️ I’m looking to collaborate on any coding project
 - 📫 How to reach me email me: camecurr@gmail.com
